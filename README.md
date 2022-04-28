@@ -1,2 +1,15 @@
 # ALGOSUP_2022_Project_5_A
-Algosup project 5A about AI
+### Artificial Intelligence
+The objective of the project is to create a device that can detect wether you are speaking in french
+or in english. For this, the device will have an artificial intelligence that will be trained to detect the language.The project has been given to us by AlgoSup and it will be monitored by Jackie Boscher, Deep learning consultant.
+
+Links:
+
+[Functional Specifications]()
+
+[Technical Specifications]()
+
+[Trello](https://trello.com/b/8Cp5xbI5/project5a)
+
+
+
